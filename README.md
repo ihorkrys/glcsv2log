@@ -14,8 +14,7 @@ Run:
 app.jar {path_to_csv} {merge_to_one_log}
 
 Where:
-  path_to_csv - path to export file
-  
-  merge_to_one_log (true|false) - merge log from different app_name/hostname to one file. Default is true;
+  1. path_to_csv - path to export file
+  2. merge_to_one_log (true|false) - merge log from different app_name/hostname to one file. Default is true;
 
 Output will be same file name with ".log" prefix
