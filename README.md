@@ -12,6 +12,7 @@ Fields for export:
 
 Run:
 app.jar {path_to_csv} {merge_to_one_log}
+
 Where:
   path_to_csv - path to export file
   merge_to_one_log (true|false) - merge log from different app_name/hostname to one file. Default is true;
